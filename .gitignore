@@ -1,0 +1,14 @@
+*
+
+!.gitignore
+
+!*/
+
+!*.cpp
+!*.hpp
+!*.py
+
+!*.pro
+!*.pri
+
+tmp
